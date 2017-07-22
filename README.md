@@ -1,7 +1,7 @@
 免费的编程中文书籍索引
 ============================
 
-[![Build Status](https://travis-ci.org/justjavac/free-programming-books-zh_CN.svg?branch=master)](https://travis-ci.org/justjavac/free-programming-books-zh_CN)
+[![](https://img.shields.io/github/issues/justjavac/free-programming-books-zh_CN.svg)](https://github.com/justjavac/free-programming-books-zh_CN/issues)  [![](https://img.shields.io/github/forks/justjavac/free-programming-books-zh_CN.svg)](https://github.com/justjavac/free-programming-books-zh_CN/network) [![](https://img.shields.io/github/stars/justjavac/free-programming-books-zh_CN.svg)](https://github.com/justjavac/free-programming-books-zh_CN/stargazers) [![](https://travis-ci.org/justjavac/free-programming-books-zh_CN.svg?branch=master)](https://travis-ci.org/justjavac/free-programming-books-zh_CN) [![](https://img.shields.io/github/release/justjavac/free-programming-books-zh_CN.svg)](https://github.com/justjavac/free-programming-books-zh_CN/releases)
 
 免费的编程中文书籍索引，欢迎投稿。
 
@@ -12,8 +12,6 @@
 欢迎订阅我的微信公众帐号，只推送原创文字。欢迎扫描二维码订阅：
 
 ![justjavac微信公众帐号](http://justjavac.com/assets/images/weixin-justjavac.jpg)
-
-感谢 [@siberiawolf](https://github.com/siberiawolf) 使用 Bootstrap 开发了网页版，地址：http://siberiawolf.com/free_programming/index.html
 
 ## 参与交流
 
@@ -164,10 +162,11 @@
 * [Markdown·简单的世界](https://github.com/wizardforcel/markdown-simple-world)
 * [一年成为 Emacs 高手](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-zh.org)
 * [Emacs 生存指南](http://lifegoo.pluskid.org/upload/blog/152/Survive.in.Emacs.pdf)
+* [Atom官方手册](https://atom-china.org/t/atom/62)
 
 ### NoSQL
 
-* [NoSQL数据库笔谈](http://yankaycom-wordpress.stor.sinaapp.com/NoSql_Database_Note.html?q=/wp-content/NoSql_Database_Note.html) ([PDF](http://yankaycom-wordpress.stor.sinaapp.com/uploads/2012/12/NoSQL%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AC%94%E8%B0%88v2.pdf))
+* [NoSQL数据库笔谈](http://old.sebug.net/paper/databases/nosql/Nosql.html)
 * [Redis 设计与实现](http://redisbook.com/)
 * [Redis 命令参考](http://redisdoc.com/)
 * [带有详细注释的 Redis 3.0 代码](https://github.com/huangz1990/redis-3.0-annotated)
@@ -177,6 +176,7 @@
 * [Neo4j 简体中文手册 v1.8](http://docs.neo4j.org.cn/)
 * [Neo4j .rb 中文資源](http://neo4j.tw/)
 * [Disque 使用教程](http://disquebook.com)
+* [Apache Spark 设计与实现](https://github.com/JerryLead/SparkInternals/tree/master/markdown)
 
 ### PostgreSQL
 
@@ -213,6 +213,7 @@
 * [开源软件架构](http://www.ituring.com.cn/book/1143)
 * [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
 * [GNU make 中文手册](http://www.yayu.org/book/gnu_make/)
+* [The Twelve-Factor App](http://12factor.net/zh_cn/)
 
 ### 设计模式
 
@@ -376,6 +377,7 @@
 * [Network programming with Go 中文翻译版本](https://github.com/astaxie/NPWG_zh)
 * [Effective Go](http://www.hellogcc.org/effective_go.html)
 * [Go 语言标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
+* [Golang标准库文档](http://godoc.ml/)
 * [Revel 框架手册](http://gorevel.cn/docs/manual/index.html)
 * [Java程序员的Golang入门指南](http://blog.csdn.net/dc_726/article/details/46565241)
 * [Go命令教程](https://github.com/hyper-carrot/go_command_tutorial)
@@ -425,6 +427,7 @@
 * [Java开源实现及最佳实践](https://github.com/biezhi/jb)
 * [Java 编程要点](https://github.com/waylau/essential-java)
 * [Think Java](http://www.ituring.com.cn/minibook/69)
+* [Java 8 简明教程](https://github.com/wizardforcel/modern-java-zh)
 
 ### JavaScript
 
@@ -580,7 +583,6 @@
 * [PEP8 Python代码风格规范](https://code.google.com/p/zhong-wiki/wiki/PEP8)
 * [Google Python 风格指南 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/)
 * [Python入门教程](http://liam0205.me/2013/11/02/Python-tutorial-zh_cn/) ([PDF](http://liam0205.me/attachment/Python/The_Python_Tutorial_zh-cn.pdf))
-* [Python的神奇方法指南](http://article.yeeyan.org/view/311527/287706)
 * [笨办法学 Python](http://old.sebug.net/paper/books/LearnPythonTheHardWay/) ([PDF](http://liam0205.me/attachment/Python/PyHardWay/Learn_Python_The_Hard_Way_zh-cn.pdf) [EPUB](https://www.gitbook.com/download/epub/book/wizardforcel/lpthw))
 * [Python自然语言处理中文版](http://pan.baidu.com/s/1qW4pvnY) （感谢陈涛同学的翻译，也谢谢 [@shwley](https://github.com/shwley) 联系了作者）
 * [Python 绘图库 matplotlib 官方指南中文翻译](http://liam0205.me/2014/09/11/matplotlib-tutorial-zh-cn/)
@@ -612,6 +614,7 @@
 * [Python 核心编程 第二版](https://wizardforcel.gitbooks.io/core-python-2e/content/) CPyUG译
 * [Python最佳实践指南](http://pythonguidecn.readthedocs.io/zh/latest/)
 * [Python 精要教程](https://www.gitbook.com/book/wizardforcel/python-essential-tutorial/details)
+* [Python 量化交易教程](https://www.gitbook.com/book/wizardforcel/python-quant-uqer/details)
 * Django
     * [Django 1.5 文档中文版](http://django-chinese-docs.readthedocs.org/en/latest/) 正在翻译中
     * [Diango 1.7 文档中文版](http://django-1-7-doc.coding.io/)  正在翻译中，目前只翻译了目录
